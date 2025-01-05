@@ -1,1 +1,0 @@
-# Weapon-detection-using-YOLO
